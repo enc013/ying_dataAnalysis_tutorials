@@ -1,0 +1,32 @@
+name: wu_py379
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - cython
+  - ipympl
+  - librosa
+  - matplotlib
+  - msgpack
+  - numpy
+  - openpyxl
+  - pandas
+  - pyqt
+  - pyYAML
+  - requests
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - xlrd
+  - pip
+  - pip:
+    - decord
+    - heartpy
+    - neurokit2
+    - opencv-contrib-python
+    - pylsl
+    - pyxdf
+    - statannotations
+    - statannot
+    - systole
