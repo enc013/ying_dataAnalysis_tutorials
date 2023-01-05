@@ -6,6 +6,12 @@ coding in Python while EEG analysis requires MATLAB. I will try to update this w
 in our lab in the coming future but the [EEGLab Wiki](https://eeglab.org/tutorials/) has a great tutorial on how to use the GUI 
 and tips on writing scripts (Section 11).
 
+The code is divided into two directories: __matlab__ and __python__. I would recommend starting with the Python tutorials
+as they have tutorials and information on lab streaming layer, as well as the type of data you may encounter in our lab. 
+The ECG tutorials will also provide information on how LSL recordings are organized. Then I would move on to the EEG tutorials 
+in the matlab directory as it assumes you know about LSL recordings. I am still in the process of writing these EEG tutorials 
+(1/5/2023), but I am hoping I can write more soon.
+
 For the Lab Streaming Layer and ECG tutorials, I recommend using a Python virtual environment, so you can keep your 
 analysis/projects/classwork separate. That being said, these tutorials are Jupyter Notebooks. I think most people
 use Anaconda to access Jupyter Notebooks as it is easy to use. In Anaconda, you can create virtual environments 
@@ -21,6 +27,7 @@ you to apply what you learned. The answers can be provided if you shoot me an em
 for some help. 
 
 Lastly, I have added some cheat sheets for some common Conda commands or terminal commands you might use. Let me know if 
-anything goes wrong or if you have suggestions. We could always go through these together. 
+anything goes wrong or if you have suggestions. We could always go through these together. Also let me know if you have 
+any suggestions or bugs. 
 
 __Contact Email:__ enc013@ucsd.edu
